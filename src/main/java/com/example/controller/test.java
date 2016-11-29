@@ -14,7 +14,7 @@ public class test {
 
     @RequestMapping (value = "/",method = RequestMethod.GET)
     public String index() {
-        return "Hello World~!";
+        return "Hello World~~!";
     }
 }
 
